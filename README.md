@@ -8,11 +8,11 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
+## 👀 About Me  
+#### :raising_hand: I am a Student Developer from South Korea.<br/>
+#### :iphone: I aim to become a Mobile App Developer.<br/>
+#### :school: Currently attending Siheung Neunggok High School.<br/>
+<br/>
   <br/>
   
   ## 🧱 Tech Stack
@@ -27,13 +27,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
   
-  ### Library
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <br/>
-  
   ### Framework
   <!--Flask-->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
@@ -44,8 +37,6 @@
   <br/>
   
   ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
