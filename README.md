@@ -6,13 +6,6 @@
 </div>
 
 <div>
-  <!--Body-->
-  
-## 👀 About Me  
-#### :raising_hand: I am a Student Developer from South Korea.<br/>
-#### :iphone: I aim to become a Mobile App Developer.<br/>
-#### :school: Currently attending Siheung Neunggok High School.<br/>
-<br/>
   <br/>
   
   ## 🧱 Tech Stack
